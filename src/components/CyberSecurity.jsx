@@ -54,7 +54,7 @@ function CyberSecurity() {
         <div className="col">
           <div className="card h-100">
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png"
+              src="https://vitbhopal.ac.in/file/2022/04/Cyber-Security2.jpg"
               alt=""
             />
             <div className="card-body">
@@ -100,7 +100,7 @@ function CyberSecurity() {
         <div className="col">
           <div className="card h-100">
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png "
+              src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Use_Cases_for_Cyber_Security.jpg"
               alt=""
             />
             <div className="card-body">
@@ -125,7 +125,7 @@ function CyberSecurity() {
         <div className="col">
           <div className="card h-100">
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4LciHGYCCOVagWWPaPsy1m1Tx2l27nWbYhg&usqp=CAU"
               alt=""
             />
             <div className="card-body">

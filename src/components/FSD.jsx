@@ -83,7 +83,7 @@ function FSD() {
         <div className="col">
           <div className="card h-100">
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/07/image-6.png"
+              src="https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-Books-to-Learn-Full-Stack-Development.webp"
               alt=""
             />
             <div className="card-body">
@@ -132,12 +132,12 @@ function FSD() {
         <div className="col">
           <div className="card h-100">
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-2048x1072.png"
+              src="https://www.guvi.in/blog/wp-content/uploads/2023/10/Featured-Image-top-product-based-companies-for-full-stack-developers.webp"
               alt=""
             />
             <div className="card-body">
               <h5 className="card-title">
-                Top 10 Tools Every Full-Stack Developer Should Master in 2024
+              Top 10 Product-Based Companies for Full-Stack Developers [2024]
               </h5>
               <p className="card-text">
                 As a full-stack developer, having the right set of tools is

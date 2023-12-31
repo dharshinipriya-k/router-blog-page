@@ -80,8 +80,8 @@ function DataScience() {
         <div className="col">
           <div className="card h-100">
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/07/conceptual-data-analysis-with-wooden-blocks-magnifying-glass-side-view-1.jpg"
-              alt=""
+              src="https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-books-to-learn-data-science.webp"
+              alt="datascience_img"
             />
             <div className="card-body">
               <h5 className="card-title">
