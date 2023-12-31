@@ -1,0 +1,53 @@
+.nav-underline .nav-link{
+  position: relative;
+  color:darkslategray;
+  text-decoration: none;
+  transition: color 0.3s;
+  font-weight: bold;
+}
+
+.nav{
+  border-bottom: 1px solid lightgrey ;
+  
+}
+
+.nav-underline .nav-link::before{
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0.3vh;
+  bottom: 0;
+  right: 0;
+  background-color: #0dba4b;
+  transition: width 0.3s;
+}
+
+.nav-underline .nav-link:hover{
+  color: #0dba4b;
+  font-weight: bolder;
+}
+
+.nav-underline .nav-link:hover::before{
+  width: 100%;
+}
+
+.card a {
+  text-decoration: none;
+  color: #0dba4b;
+  font-weight: bold;
+}
+
+.card {
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.card:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.container{
+  margin-top: 2rem !important;
+}
