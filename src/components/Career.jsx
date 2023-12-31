@@ -7,7 +7,7 @@ function Career() {
         <div className="col">
           <div className="card h-100">
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg"
+              src="https://www.acquisition-international.com/wp-content/uploads/2021/09/UI-UX-Design.jpg"
               alt=""
             />
             <div className="card-body">
